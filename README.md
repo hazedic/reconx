@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is an automated reconnaissance tool designed to enumerate assets (subdomains and URLs) of a target domain using a variety of opensource tools. It leverages parallel processing for efficiency and provides detailed logging with color-coded output for better visibility. The tool is highly configurable via a `config.json` file and includes features like subdomain enumeration, URL crawling, and validation of live endpoints.
+This is an automated reconnaissance tool designed to discover assets (subdomains and URLs) of a target domain using a variety of open-source tools. It leverages parallel processing for efficiency and provides detailed logging with color-coded output for better visibility. The tool is highly configurable via a `config.json` file and includes features like subdomain enumeration, URL crawling, and validation of live endpoints.
 
 ## Prerequisites
 
