@@ -1,0 +1,21 @@
+{
+    "subfinder_threads": 100,
+    "httpx_threads": 50,
+    "httpx_timeout": 5,
+    "katana_depth": 5,
+    "katana_concurrency": 20,
+    "exclude_extensions": "ttf,woff,woff2,svg,png,jpg,jpeg,gif,mp4,mp3,pdf,css,js,ico,eot",
+    "dns_resolvers": "8.8.8.8,1.1.1.1",
+    "gowitness_timeout": 30,
+    "required_tools": [
+        "subfinder",
+        "assetfinder",
+        "amass",
+        "httpx",
+        "waymore",
+        "katana",
+        "gospider",
+        "gowitness",
+        "subzy"
+    ]
+}
